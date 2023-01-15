@@ -37,5 +37,17 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "mocha": "^8.2.1"
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakenaG/react-hooks-lists-and-keys-lab.git"
+  },
+  "author": "Glory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakenaG/react-hooks-lists-and-keys-lab/issues"
+  },
+  "homepage": "https://github.com/MakenaG/react-hooks-lists-and-keys-lab#readme"
 }
